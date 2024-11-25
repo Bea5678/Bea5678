@@ -1,3 +1,4 @@
-- oie, @Bea5678 eu sou estudante do alura 
-- 
+- oie, meu nome é Beatriz 🩷
+- sou estudante do alura
+- gosto de vôlei,livros e piano 📚🎹🏐
   
